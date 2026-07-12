@@ -52,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0503-next-greater-element-ii) |
+## Math
+|  |
+| ------- |
+| [2739-total-distance-traveled](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2739-total-distance-traveled) |
+## Simulation
+|  |
+| ------- |
+| [2739-total-distance-traveled](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2739-total-distance-traveled) |
 <!---LeetCode Topics End-->
