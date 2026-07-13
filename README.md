@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0503-next-greater-element-ii) |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2739-total-distance-traveled](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2739-total-distance-traveled) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
