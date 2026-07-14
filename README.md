@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1025-divisor-game) |
 | [2739-total-distance-traveled](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2739-total-distance-traveled) |
 ## Simulation
 |  |
@@ -69,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
