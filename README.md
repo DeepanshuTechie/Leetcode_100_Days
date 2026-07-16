@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0680-valid-palindrome-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
