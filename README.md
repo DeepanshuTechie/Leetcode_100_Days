@@ -115,4 +115,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0643-maximum-average-subarray-i) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
