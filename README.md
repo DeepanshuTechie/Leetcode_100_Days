@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0645-set-mismatch) |
+| [1004-max-consecutive-ones-iii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1004-max-consecutive-ones-iii) |
 ## Tree
 |  |
 | ------- |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0100-same-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
