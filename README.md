@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0680-valid-palindrome-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0125-valid-palindrome) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1004-max-consecutive-ones-iii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
