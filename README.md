@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2396-strictly-palindromic-number) |
 | [2739-total-distance-traveled](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2739-total-distance-traveled) |
@@ -111,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
