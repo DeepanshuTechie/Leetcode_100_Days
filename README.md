@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0054-spiral-matrix) |
 | [2739-total-distance-traveled](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2739-total-distance-traveled) |
 ## Two Pointers
 |  |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
