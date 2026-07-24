@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -174,9 +175,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
