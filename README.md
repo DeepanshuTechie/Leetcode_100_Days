@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0169-majority-element) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0283-move-zeroes) |
