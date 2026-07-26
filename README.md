@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0128-longest-consecutive-sequence) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2396-strictly-palindromic-number) |
