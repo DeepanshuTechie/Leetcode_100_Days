@@ -1,8 +1,7 @@
 class Solution {
     public String longestPalindrome(String s) {
-        String ans = "";
         int n = s.length();
-       
+        String ans = "";
         for(int i = 0;i<n;i++){
             for(int j = i;j<n;j++){
                 if(check(s,i,j)){
@@ -12,16 +11,16 @@ class Solution {
                 }
             }
         }
+        
         return ans;
     }
-    private Boolean check(String s,int i,int j){
-        while(i < j){
-            if(s.charAt(i) != s.charAt(j)){
-                return false;
+    boolean check(String s,int i,int j){
+            while(i < j){
+                if(s.charAt(i) != s.charAt(j)){
+                    return false;
+                }
+                i++;j--;
             }
-            i++;
-            j--;
+            return true;
         }
-        return true;
-    } 
 }
