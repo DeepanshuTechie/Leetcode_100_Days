@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1025-divisor-game) |
