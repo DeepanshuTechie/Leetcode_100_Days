@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -81,11 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
