@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -165,10 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0100-same-tree) |
 ## Prefix Sum
 |  |
