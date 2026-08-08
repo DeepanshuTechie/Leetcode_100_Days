@@ -227,4 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
