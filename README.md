@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0015-3sum) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0169-majority-element) |
