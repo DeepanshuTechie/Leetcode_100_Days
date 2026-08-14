@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2396-strictly-palindromic-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0050-powx-n) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
