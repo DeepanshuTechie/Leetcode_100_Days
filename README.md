@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1004-max-consecutive-ones-iii) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0645-set-mismatch) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0680-valid-palindrome-ii) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sliding Window
 |  |
 | ------- |
