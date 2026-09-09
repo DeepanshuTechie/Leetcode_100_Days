@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0739-daily-temperatures) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0680-valid-palindrome-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0160-intersection-of-two-linked-lists) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
