@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0901-online-stock-span) |
 ## Math
 |  |
 | ------- |
@@ -300,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
