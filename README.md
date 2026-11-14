@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1052-grumpy-bookstore-owner) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/DeepanshuTechie/Leetcode_100_Days/tree/master/1052-grumpy-bookstore-owner) |
 ## Tree
 |  |
 | ------- |
