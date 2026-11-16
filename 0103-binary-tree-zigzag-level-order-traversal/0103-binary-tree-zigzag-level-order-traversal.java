@@ -15,25 +15,24 @@
  */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        if(root == null) return new ArrayList<>();
         List<List<Integer>> ans = new ArrayList<>();
+        if(root == null) return ans;
+        boolean flag = true;
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
-        boolean flag = true;
         while(!q.isEmpty()){
             int s = q.size();
             LinkedList<Integer> list = new LinkedList<>();
             for(int i = 0;i<s;i++){
-               
-               TreeNode curr = q.poll();
-               if(flag){
+                TreeNode curr = q.poll();
+                if(flag){
                     list.addLast(curr.val);
-               }
-               else{
-                list.addFirst(curr.val);
-               }
-               if(curr.left != null) q.offer(curr.left);
-               if(curr.right != null) q.offer(curr.right);
+                }
+                else{
+                    list.addFirst(curr.val);
+                }
+                if(curr.left != null) q.add(curr.left);
+                if(curr.right != null) q.add(curr.right);
             }
             ans.add(list);
             flag = !flag;
